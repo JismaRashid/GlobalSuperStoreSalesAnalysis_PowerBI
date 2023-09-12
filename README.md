@@ -1,0 +1,2 @@
+# GlobalSuperStoreSalesAnalysis_PowerBI
+I have created a Power BI dashboard for a global store dataset that enables stakeholders to gain insights into sales transactions across different geographic segments, analyze shipping methods, and explore sales data interactively. This report will empower stakeholders to make data-driven decisions and better understand the store's performance on a global scale.
